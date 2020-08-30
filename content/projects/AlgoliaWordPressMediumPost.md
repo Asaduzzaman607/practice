@@ -10,3 +10,4 @@ tech:
 company: ''
 showInProjects: true
 ---
+A simple , static and one page e-school website design . Users can find their courses from here.
