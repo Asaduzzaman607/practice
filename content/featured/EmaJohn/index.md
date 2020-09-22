@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'Emma John E-Commerce App'
 cover: './ema-john.png'
 github: 'https://github.com/Asaduzzaman607/ema-john-simple'

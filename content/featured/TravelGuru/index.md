@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Travel Guru'
 cover: './travel.png'
 github: 'https://github.com/Asaduzzaman607/react-travel-guru'
@@ -8,6 +8,7 @@ tech:
   - React
   - React-Bootstrap
   - Material UI
+  - Firebase
 showInProjects: true
 ---
 

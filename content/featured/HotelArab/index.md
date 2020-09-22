@@ -1,9 +1,9 @@
 ---
-date: '5'
-title: 'Instagram Clone'
-cover: './insta.png'
-github: 'https://github.com/Asaduzzaman607/react-instagram-clone'
-external: 'https://react-instagramm-clone.web.app/'
+date: '3'
+title: 'Hotel Burj-Al-Arab'
+cover: './hotel.png'
+github: 'https://github.com/Asaduzzaman607/react-burj-al-arab'
+external: 'https://react-burj-al-arab.netlify.app/'
 tech:
   - React
   - React-Bootstrap
