@@ -1,16 +1,14 @@
 ---
 date: '3'
-title: 'Doctors Portal'
-cover: './octoprofile.png'
-github: 'https://github.com/Asaduzzaman607/doctor-portal'
-external: 'https://doctors-portal-react.firebaseapp.com/'
+title: 'Instagram Clone'
+cover: './insta.png'
+github: 'https://github.com/Asaduzzaman607/react-instagram-clone'
+external: 'https://react-instagramm-clone.web.app/'
 tech:
   - React
-  - Node.js
-  - Express
-  - MongoDB
-  - reactstrap
+  - React-Bootstrap
+  - Firebase
 showInProjects: true
 ---
 
-A Single page web app with dashboard where people can pick the date and time and fix an appointment.
+A Single page instagram clone app  where users can login and post like instagram to show in the feed and can comment as well.
