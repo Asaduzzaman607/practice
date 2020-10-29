@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A dynamic traveling website where people are able to select their destination and book a hotel.
+A dynamic traveling website where users can log in and book for a traveling place.Users can find a suitable hotel through the app.In addition, users can inspect the travelling location in google map.

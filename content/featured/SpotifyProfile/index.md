@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A single page restaurant app where people are able to select food in their cart and checkout the cart with their information.
+A fully functional restaurant app where customer can select food items to their cart and can checkout the cart with their information.
