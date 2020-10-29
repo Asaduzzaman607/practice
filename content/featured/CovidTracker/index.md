@@ -5,9 +5,8 @@ cover: './covid.png'
 github: 'https://github.com/Asaduzzaman607/tract-covid-tracker'
 external: 'https://react-covid-19-tracker-2be9f.web.app/'
 tech:
-  - HTML
-  - CSS3
-  - JavaScript
+  - React
+  - Material UI
 showInProjects: true
 ---
 

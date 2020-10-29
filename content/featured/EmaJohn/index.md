@@ -6,7 +6,10 @@ github: 'https://github.com/Asaduzzaman607/ema-john-simple'
 external: 'https://emma-john.netlify.app/'
 tech:
   - React
-  - Reactstrap
+  - React-bootstrap
+  - Node.js
+  - MongoDB
+  - Express
 showInProjects: true
 ---
 

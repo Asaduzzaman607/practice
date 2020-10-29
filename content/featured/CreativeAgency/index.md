@@ -9,7 +9,7 @@ tech:
   - Node.js
   - Express
   - MongoDB
-  - Material UI
+  - React-Bootstrap
 showInProjects: true
 ---
 

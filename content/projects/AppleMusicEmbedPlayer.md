@@ -1,11 +1,11 @@
 ---
 date: '2020-07-01'
 title: 'Pin Generate Master'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+github: 'https://github.com/Asaduzzaman607/js-pin-master'
+external: 'https://asaduzzaman607.github.io/js-pin-master/'
 tech:
   - HTML
-  - JS
+  - JavaScript
   - CSS
 company: ''
 showInProjects: true
