@@ -5,11 +5,12 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React.js
-  - React Native
+  - Express.js  
+  - Vue.js
   - Node.js
-  - Express.js
+  - Next.js
   - MongoDB
-  - Firebase
+  
 ---
 
 Hello! I'm [Asaduzzaman](https://www.linkedin.com/in/asaduzzaman-sajeeb/), a Curious Web Developer.
