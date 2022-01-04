@@ -1,6 +1,6 @@
 ---
 date: '2021-11-21'
-title: 'SOftware Engineer'
+title: 'Software Engineer'
 company: 'Eastwestnets'
 location: 'Riyadh, Saudi Arabia'
 range: 'November,2021 - Present'

@@ -1,14 +1,14 @@
 ---
 date: '99'
-title: 'Jubayer Computer Shop'
+title: 'G-net'
 cover: './sheba1.png'
 github: 'private'
-external: 'https://www.smanager.xyz/store/jubayer-compute1'
+external: 'https://www.smanager.xyz/s/g-net3'
 tech:
-  - Vue.js
+  - Next.js
   - Laravel
   - AWS
-  - Bootstrap
+  - Tailwind
 showInProjects: true
 ---
 
