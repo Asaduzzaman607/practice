@@ -26,7 +26,7 @@ const Head = ({ metadata }) => (
       {metadata.title}
     </title>
     <link rel="shortcut icon" href={favicon} />
-    <link rel="canonical" href="https://asaduzzaman-sajeeb.netlify.app/" />
+    <link rel="canonical" href="https://asaduzzamansajeeb.netlify.app/" />
 
     <meta name="theme-color" content={config.colors.navy} />
   </Helmet>
