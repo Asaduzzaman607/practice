@@ -7,5 +7,8 @@ range: '8th May,2022 - Present'
 url: 'https://digigate360.com/'
 ---
 
-- Here, I'm currently working in the development team 
-to develop their websites with ReactJs and Redux.
+- Collaborating with other Java, React, and Architects to create new applications and enhance existing ones.
+- Being agile always keeps my projects updated based on requirements.
+- Reviewing other  developers code and improving thyself as well.
+- Maintaining Redmine to track all the tasks and issues and time logs.
+- Working here to develop an Airlines Resource Management using custom hooks in react.

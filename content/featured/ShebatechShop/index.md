@@ -1,9 +1,9 @@
 ---
 date: '99'
-title: 'G-net'
-cover: './sheba1.png'
-github: 'private'
-external: 'https://www.smanager.xyz/s/g-net3'
+title: 'Dhaka Shop BD'
+cover: './shebaxyx.PNG'
+github: 'https://sheba-platform.xyz/'
+external: 'https://www.smanager.xyz/s/dhaka-shop-bd.com'
 tech:
   - Next.js
   - Laravel
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Sheba's dynamic e-Commerce website for any kind of MSME business.
+Sheba's dynamic e-Commerce website like shopify for any kind of MSME business.

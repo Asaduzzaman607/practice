@@ -2,9 +2,11 @@
 date: '2021-11-21'
 title: 'Software Engineer'
 company: 'Eastwestnets'
-location: 'Riyadh, Saudi Arabia'
-range: 'November,2021 - 30th April, 2022'
+location: 'Bangladesh'
+range: 'November,2021 - May, 2022'
 url: 'http://ewn-bd.com/'
 ---
 
-- Here I worked with React and Redux to develop softwares of foreign clients. Moreover, I worked in Authentication, Authorization as well.
+- Lead a group of developers and analysts in an Agile Software Development process which includes daily standups, presentations to stakeholders, reviews of code, and system testing to develop high-quality SaaS solutions.
+- Collaborate with other Python, React, and Architects to create new applications and enhance existing ones.
+- Manage several, sometimes conflicting goals and responsibilities within a work team; coach, guide, provide feedback, and teach team members.

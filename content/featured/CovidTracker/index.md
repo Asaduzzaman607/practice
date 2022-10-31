@@ -1,13 +1,17 @@
 ---
-date: '7'
-title: 'Covid Tracker'
-cover: './covid.png'
-github: 'https://github.com/Asaduzzaman607/tract-covid-tracker'
-external: 'https://react-covid-19-tracker-2be9f.web.app/'
+date: '98'
+title: 'Taamid'
+cover: './eastwest.jpg'
+github: 'https://ewn-sa.com/en/'
+external: 'https://taamid.com/'
 tech:
   - React
-  - Material UI
+  - Redux
+  - Bootstrap
 showInProjects: true
 ---
 
-An Api based application where people are able to track the update information regarding COVID-19.
+- Convenient purchase order creation
+- Smart Order management
+- On point offers
+- Message center
